@@ -54,7 +54,7 @@
 |AGNN |Amalgamating Knowledge from Heterogeneous Graph Neural Networks |[Paper](https://ieeexplore.ieee.org/document/9577636) |2021CVPR |
 |CPF |Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework |[Paper](https://dl.acm.org/doi/10.1145/3442381.3450068) |2021 WWW|
 |LSP |Distilling Knowledge from Graph Convolutional Networks |[Paper](https://ieeexplore.ieee.org/document/9156492) |2020CVPR|
-|GKD |GKD:Semi-supervised Graph Knowledge Distillation for Graph-Independent Inference |[Paper](https://arxiv.org/abs/2104.03597) | |2021 MICCAI |
+|GKD |GKD:Semi-supervised Graph Knowledge Distillation for Graph-Independent Inference |[Paper](https://arxiv.org/abs/2104.03597) |2021 MICCAI |
 |scGCN |scGCN is a graph convolutional networks algorithm for knowledge transfer in single cell omics |[Paper](https://www.nature.com/articles/s41467-021-24172-y.pdf) |2021 Nature |
 |MetaHG |Distilling Meta Knowledge on Heterogeneous Graph for Illicit Drug Trafficker Detection on Social Media |[Paper](https://papers.nips.cc/paper/2021/file/e234e195f3789f05483378c397db1cb5-Paper.pdf) | 2021 NeurIPS|
 |Cold Brew | Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods|[Paper](https://arxiv.org/pdf/2111.04840.pdf) |2021 ICLR |
