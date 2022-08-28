@@ -2,7 +2,7 @@
 - [Graph-based-Knowledge-Distillation](#graph-knowledge-distillation)
   - [DKD](#dkd)
   - [GKD](#gkd)
-  - [Self-KD](#self-kd)
+  - [SKD](#skd)
 
 
 
@@ -77,7 +77,7 @@
 |MustaD | Compressing deep graph convolution network with multi-staged knowledge distillation|[Paper](https://pdfs.semanticscholar.org/1069/51f925eaf30eee7ba738c9b89e665cfb2f22.pdf?_ga=2.172565539.160323435.1657536794-2050460118.1606810570) |2021 PloS one |
 
 
-## Self-KD
+## SKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
 |LinkDist |Distilling Self-Knowledge From Contrastive Links to Classify Graph Nodes Without Passing Messages |[Paper](https://arxiv.org/pdf/2106.08541.pdf) |2021 |
