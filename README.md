@@ -10,17 +10,17 @@
 ## DKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
-|IEP |Interpretable Embedding Procedure Knowledge Transfer via Stacked Principal Component Analysis and Graph Neural Network |[Paper](https://arxiv.org/pdf/2104.13561.pdf) |2021AAAI|
-|HKD |Distilling Holistic Knowledge with Graph Neural Networks |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Distilling_Holistic_Knowledge_With_Graph_Neural_Networks_ICCV_2021_paper.pdf) |2021ICCV|
-|CAG |Context-Aware Graph Inference with Knowledge Distillation for Visual Dialog |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2021TPAMI|
-|DKWISL |Distilling Knowledge from Well-Informed Soft Labels for Neural Relation Extraction |[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6509) |2020AAAI |
-|KTG |Knowledge Transfer Graph for Deep Collaborative Learning  |[Paper](https://arxiv.org/pdf/1909.04286.pdf) |2019ACCV|
-|MHGD |Graph-based Knowledge Distillation by Multi-head Attention Network |[Paper](https://arxiv.org/pdf/1907.02226.pdf) |2019BMVC |
-|IRG |Knowledge Distillation via Instance Relationship Graph |[Paper](https://ieeexplore.ieee.org/document/8953802) |2019CVPR |
-|DGCN |Binarized Collaborative Filtering with Distilling Graph Convolutional Networks |[Paper](https://arxiv.org/pdf/1906.01829.pdf) |2019IJCAI|
-|GKD |Deep Geometric Knowledge Distillation with Graphs |[Paper](https://ieeexplore.ieee.org/document/9053986) |2019ICASSP|
-|SPG |Spatio-Temporal Graph for Video Captioning With Knowledge Distillation |[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf) | 2020CVPR|
-|MorsE |Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding |[Paper](https://arxiv.org/pdf/2110.14170.pdf) |2022SIGIR|
+|IEP |Interpretable Embedding Procedure Knowledge Transfer via Stacked Principal Component Analysis and Graph Neural Network |[Paper](https://arxiv.org/pdf/2104.13561.pdf) |2021 AAAI|
+|HKD |Distilling Holistic Knowledge with Graph Neural Networks |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Distilling_Holistic_Knowledge_With_Graph_Neural_Networks_ICCV_2021_paper.pdf) |2021 ICCV|
+|CAG |Context-Aware Graph Inference with Knowledge Distillation for Visual Dialog |[Paper](https://pubmed.ncbi.nlm.nih.gov/34061738/) |2021 TPAMI|
+|DKWISL |Distilling Knowledge from Well-Informed Soft Labels for Neural Relation Extraction |[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6509) |2020 AAAI |
+|KTG |Knowledge Transfer Graph for Deep Collaborative Learning  |[Paper](https://arxiv.org/pdf/1909.04286.pdf) |2019 ACCV|
+|MHGD |Graph-based Knowledge Distillation by Multi-head Attention Network |[Paper](https://arxiv.org/pdf/1907.02226.pdf) |2019 BMVC |
+|IRG |Knowledge Distillation via Instance Relationship Graph |[Paper](https://ieeexplore.ieee.org/document/8953802) |2019 CVPR |
+|DGCN |Binarized Collaborative Filtering with Distilling Graph Convolutional Networks |[Paper](https://arxiv.org/pdf/1906.01829.pdf) |2019 IJCAI|
+|GKD |Deep Geometric Knowledge Distillation with Graphs |[Paper](https://ieeexplore.ieee.org/document/9053986) |2019 ICASSP|
+|SPG |Spatio-Temporal Graph for Video Captioning With Knowledge Distillation |[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf) | 2020 CVPR|
+|MorsE |Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding |[Paper](https://arxiv.org/pdf/2110.14170.pdf) |2022 SIGIR|
 |GCLN |Dark Reciprocal-Rank: Teacher-to-student Knowledge Transfer from Self-localization Model to Graph-convolutional Neural Network |[Paper](https://ieeexplore.ieee.org/abstract/document/9561158) |2021 ICRA|
 |DOD |Deep Structured Instance Graph for Distilling Object Detectors |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Deep_Structured_Instance_Graph_for_Distilling_Object_Detectors_ICCV_2021_paper.pdf) |2021 ICCV|
 |BAF |Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification |[Paper](https://arxiv.org/pdf/1804.10069.pdf) |2018 IJCAI |
@@ -38,7 +38,7 @@
 |KDExplainer |KDExplainer: A Task-oriented Attention Model for Explaining Knowledge Distillation |[Paper](https://arxiv.org/abs/2105.04181) |2021 IJCAI|
 |TDD |Tree-like Decision Distillation |[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Tree-Like_Decision_Distillation_CVPR_2021_paper.pdf) |2021 CVPR|
 |DualDE |DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning |[Paper](https://www.zhuanzhi.ai/paper/12c6a095c207373b5e207d3375290234) |2022 WSDM|
-|KCAN |Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482331) |2021CIKM|
+|KCAN |Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482331) |2021 CIKM|
 |HKDIFM |Heterogeneous Knowledge Distillation using Information Flow Modeling |[Paper](https://ieeexplore.ieee.org/document/9157683) |2020 CVPR|
 
 
@@ -46,23 +46,23 @@
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
 |GFKD| Graph-Free Knowledge Distillation for Graph Neural Networks∗ |[Paper](https://arxiv.org/pdf/2105.07519.pdf)|2021 IJCAI |
-|LWC-KD |Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482117) | 2021CIKM|
-|EGAD |EGAD: Evolving Graph Representation Learning with Self-Attention and Knowledge Distillation for Live Video Streaming Events |[Paper](https://ieeexplore.ieee.org/document/9378219) |2020IEEE International Conference on Big Data|
+|LWC-KD |Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482117) | 2021 CIKM|
+|EGAD |EGAD: Evolving Graph Representation Learning with Self-Attention and Knowledge Distillation for Live Video Streaming Events |[Paper](https://ieeexplore.ieee.org/document/9378219) |2020 IEEE International Conference on Big Data|
 |GRL |Graph Representation Learning via Multi-task Knowledge Distillation |[Paper](https://arxiv.org/pdf/1911.05700.pdf) |2019 NeurIPS Workshop |
-|GFL |Graph Few-shot Learning via Knowledge Transfer |[Paper](https://arxiv.org/pdf/1910.03053.pdf) |2019AAAI|
-|HGKT |Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning |[Paper](https://ieeexplore.ieee.org/document/9412524) |2019ICPR |
-|AGNN |Amalgamating Knowledge from Heterogeneous Graph Neural Networks |[Paper](https://ieeexplore.ieee.org/document/9577636) |2021CVPR |
+|GFL |Graph Few-shot Learning via Knowledge Transfer |[Paper](https://arxiv.org/pdf/1910.03053.pdf) |2019 AAAI|
+|HGKT |Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning |[Paper](https://ieeexplore.ieee.org/document/9412524) |2019 ICPR |
+|AGNN |Amalgamating Knowledge from Heterogeneous Graph Neural Networks |[Paper](https://ieeexplore.ieee.org/document/9577636) |2021 CVPR |
 |CPF |Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework |[Paper](https://dl.acm.org/doi/10.1145/3442381.3450068) |2021 WWW|
-|LSP |Distilling Knowledge from Graph Convolutional Networks |[Paper](https://ieeexplore.ieee.org/document/9156492) |2020CVPR|
+|LSP |Distilling Knowledge from Graph Convolutional Networks |[Paper](https://ieeexplore.ieee.org/document/9156492) |2020 CVPR|
 |GKD |GKD:Semi-supervised Graph Knowledge Distillation for Graph-Independent Inference |[Paper](https://arxiv.org/abs/2104.03597) |2021 MICCAI |
 |scGCN |scGCN is a graph convolutional networks algorithm for knowledge transfer in single cell omics |[Paper](https://www.nature.com/articles/s41467-021-24172-y.pdf) |2021 Nature |
 |MetaHG |Distilling Meta Knowledge on Heterogeneous Graph for Illicit Drug Trafficker Detection on Social Media |[Paper](https://papers.nips.cc/paper/2021/file/e234e195f3789f05483378c397db1cb5-Paper.pdf) | 2021 NeurIPS|
 |Cold Brew | Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods|[Paper](https://arxiv.org/pdf/2111.04840.pdf) |2021 ICLR |
 |PGD |Privileged Graph Distillation for Cold Start Recommendation |[Paper](https://arxiv.org/pdf/2105.14975.pdf) |2021 SIGIR |
-|GLNN | Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation|[Paper](https://arxiv.org/pdf/2110.08727.pdf) |2022ICLR |
+|GLNN | Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation|[Paper](https://arxiv.org/pdf/2110.08727.pdf) |2022 ICLR |
 |Distill2Vec |Distill2Vec: Dynamic Graph Representation Learning with Knowledge Distillation |[Paper](https://ieeexplore.ieee.org/document/9381315) |2020 ASONAM |
 |MT -GCN |Mutual Teaching for Graph Convolutional Networks |[Paper](https://arxiv.org/pdf/2009.00952.pdf) |2021 FGCS |
-|RDD |Reliable Data Distillation on Graph Convolutional Network |[Paper](https://dl.acm.org/doi/10.1145/3318464.3389706) |2020SIGMOD |
+|RDD |Reliable Data Distillation on Graph Convolutional Network |[Paper](https://dl.acm.org/doi/10.1145/3318464.3389706) |2020 SIGMOD |
 |TinyGNN|TinyGNN: Learning efficient graph neural networks |[Paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403236) |2020 KDD |
 |GLocalKD|Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation |[Paper](https://arxiv.org/abs/2112.10063) |2022 WSDM |
 |OAD |Online Adversarial Distillation for Graph Neural Networks |[Paper](https://arxiv.org/abs/2112.13966) |2021 |
