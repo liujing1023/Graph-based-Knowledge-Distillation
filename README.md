@@ -45,7 +45,7 @@
 ## GKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
-|GFKD| Graph-Free Knowledge Distillation for Graph Neural Networks∗ |[Paper](https://arxiv.org/pdf/2105.07519.pdf)|[Code](https://github.com/Xiang-Deng-DL/GFKD) |2021 IJCAI |
+|GFKD| Graph-Free Knowledge Distillation for Graph Neural Networks∗ |[Paper](https://arxiv.org/pdf/2105.07519.pdf)|2021 IJCAI |
 |LWC-KD |Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482117) | 2021CIKM|
 |EGAD |EGAD: Evolving Graph Representation Learning with Self-Attention and Knowledge Distillation for Live Video Streaming Events |[Paper](https://ieeexplore.ieee.org/document/9378219) |2020IEEE International Conference on Big Data|
 |GRL |Graph Representation Learning via Multi-task Knowledge Distillation |[Paper](https://arxiv.org/pdf/1911.05700.pdf) |2019 NeurIPS Workshop |
