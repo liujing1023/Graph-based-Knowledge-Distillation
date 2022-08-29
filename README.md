@@ -28,7 +28,6 @@
 |GD |Graph Distillation for Action Detection with Privileged Modalities |[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zelun_Luo_Graph_Distillation_for_ECCV_2018_paper.pdf) |2018 ECCV|
 |PosVAE |Multi-label Zero-shot Classification by Learning to Transfer from External Knowledge |[Paper](https://arxiv.org/pdf/2007.15610.pdf) |2020 BMVC|
 |GCMT |Graph Consistency based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification |[Paper](https://arxiv.org/pdf/2105.04776.pdf) |2021 IJCAI|
-|DistilE |DistilE: Distiling Knowledge Graph Embeddings for Faster and Cheaper Reasoning |[Paper](https://arxiv.org/pdf/2009.05912.pdf) |2022 WSDM|
 |GraSSNet |Saliency Prediction with External Knowledge |[Paper](https://ieeexplore.ieee.org/document/9423113) |2021 WACV|
 |LSN |Learning student networks via feature embedding |[Paper](https://ieeexplore.ieee.org/document/9007474) |2020 TNNLS|
 |IntRA-KD |Inter-Region Affinity Distillation for Road Marking Segmentation |[Paper](https://ieeexplore.ieee.org/document/9156309) |2020 CVPR|
