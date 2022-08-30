@@ -44,6 +44,7 @@
 ## GKD
 |Method|Title|Link|Time|
 |:---:|:---:|:---:|:---:|
+|HIRE | HIRE: Distilling high-order relational knowledge from heterogeneous graph neural networks|[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222009961) |2022 Neurocomputing|
 |GFKD| Graph-Free Knowledge Distillation for Graph Neural Networks∗ |[Paper](https://arxiv.org/pdf/2105.07519.pdf)|2021 IJCAI |
 |LWC-KD |Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems |[Paper](https://dl.acm.org/doi/10.1145/3459637.3482117) | 2021 CIKM|
 |EGAD |EGAD: Evolving Graph Representation Learning with Self-Attention and Knowledge Distillation for Live Video Streaming Events |[Paper](https://ieeexplore.ieee.org/document/9378219) |2020 IEEE International Conference on Big Data|
