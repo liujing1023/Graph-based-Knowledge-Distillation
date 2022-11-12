@@ -26,7 +26,6 @@
 |BAF |Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification |[Paper](https://arxiv.org/pdf/1804.10069.pdf) |2018 IJCAI |
 |LAD |Language Graph Distillation for Low-Resource Machine Translation |[Paper](https://arxiv.org/pdf/1908.06258.pdf) |2019|
 |GD |Graph Distillation for Action Detection with Privileged Modalities |[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zelun_Luo_Graph_Distillation_for_ECCV_2018_paper.pdf) |2018 ECCV|
-|PosVAE |Multi-label Zero-shot Classification by Learning to Transfer from External Knowledge |[Paper](https://arxiv.org/pdf/2007.15610.pdf) |2020 BMVC|
 |GCMT |Graph Consistency based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification |[Paper](https://arxiv.org/pdf/2105.04776.pdf) |2021 IJCAI|
 |GraSSNet |Saliency Prediction with External Knowledge |[Paper](https://ieeexplore.ieee.org/document/9423113) |2021 WACV|
 |LSN |Learning student networks via feature embedding |[Paper](https://ieeexplore.ieee.org/document/9007474) |2020 TNNLS|
