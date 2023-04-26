@@ -85,5 +85,12 @@
 |SDSS|Multi-task Self-distillation for Graph-based Semi-Supervised Learning |[Paper](https://arxiv.org/pdf/2112.01174.pdf) |2021|
 |SAIL |SAIL: Self-Augmented Graph Contrastive Learning |[Paper](https://arxiv.org/pdf/2009.00934.pdf) |2022 AAAI |
 
-
+# Citation
+@article{Liu2023GraphbasedKD,
+  title={Graph-based Knowledge Distillation: A survey and experimental evaluation},
+  author={Jing Liu and Tongya Zheng and Guanzheng Zhang and Qinfen Hao},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2302.14643}
+}
 
