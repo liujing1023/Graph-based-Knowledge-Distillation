@@ -87,13 +87,11 @@
 
 # Citation
 
-        @article{Liu2023GraphbasedKD,
+        @article{liu2023graph,
           title={Graph-based Knowledge Distillation: A survey and experimental evaluation},
-          author={Jing Liu and Tongya Zheng and Guanzheng Zhang and Qinfen Hao},
-          journal={ArXiv},
-          year={2023},
-          volume={abs/2302.14643}
+          author={Liu, Jing and Zheng, Tongya and Zhang, Guanzheng and Hao, Qinfen},
+          journal={arXiv preprint arXiv:2302.14643},
+          year={2023}
         }
-
 
 
